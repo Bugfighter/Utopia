@@ -1,5 +1,5 @@
 # Utopia, 2098
-Ersterscheinung: 18.08.2022 \\
+Ersterscheinung: 18.08.2022\
 Autor: HB
 
 
