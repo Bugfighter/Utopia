@@ -10,5 +10,5 @@
 - Das [Omnigrid](/wiki/glossar/Omnigrid.md) wird flächendeckend eingeführt. Alle Bürger erhalten ein [Unitoo](/wiki/glossar/Unitoo.md).
 
 ## 2054
-- Die Gemeinschaft schafft Familientrukturen ab.
+- Die Gemeinschaft schafft Familienstrukturen ab.
 
