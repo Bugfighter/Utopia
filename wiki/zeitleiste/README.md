@@ -1,7 +1,7 @@
 # Zeitleiste
 
 ## 2036
-- Erfindung des [Unitoos](/wiki/glossar/Unitoo.md) in Deutschland. Wegen Datenschützern aber nicht zur Marketeinführung zugelassen.
+- Erfindung des [Unitoos](/wiki/glossar/Unitoo.md) in Deutschland. Wegen Datenschützern aber nicht zur Markteinführung zugelassen.
 
 ## 2045
 - Gründung der weltumspannenden Gemeinschaft [Omni](/wiki/glossar/Omni.md). Omni ersetzt alle bisherigen Länder und Bündnisse.
