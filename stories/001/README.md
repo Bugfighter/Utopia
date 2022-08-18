@@ -1,6 +1,7 @@
 # Utopia, 2098
-Ersterscheinung: 18.08.2022
+Ersterscheinung: 18.08.2022 \\
 Autor: HB
+
 
 
 Sono's Augen fühlten sich schwer an. Die Nacht war kurz gewesen - nicht wegen eines anstrengenden Jobs. Die Geburtstagsparty von Sergej, seinem Kollegen und dem Typ, mit dem er am meisten Zeit freiwillig verbrachte, gestern Abend war wild und der Barkeeper hatte es ein wenig zu gut gemeint mit den Drinks.
