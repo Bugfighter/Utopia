@@ -9,4 +9,4 @@
 - Datenübertragung durch Neutrinosignale
 - Ist universal vernetzt 
 - Und hat vor allem Zugriff auf ALLE Informationen (totale Transparens)
-- Speichert Informationen aus dem Universal Grid als Blockchain
+- Speichert Informationen aus dem Omnigrid als Blockchain
