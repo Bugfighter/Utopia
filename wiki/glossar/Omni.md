@@ -7,6 +7,8 @@
 
 ## Orientierungen
 
+Generell empfindet sich die Menschheit nun als ein Ganzes was aus vielen einzelnen besteht. Die Orientierungen sind Bewegungen in Omni die in konstruktiver Oposition stehen.
+
 ### Omnis
 
 Menschen die sich in Omni sehr für die Anreicherung von Informationen im Omnigrid einsetzen und die Symbiose die durch die Unitoos geschaffen wurde als neue Evolutionsstufe der Menschheit ansehen.
