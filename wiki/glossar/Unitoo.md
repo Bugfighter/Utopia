@@ -6,7 +6,7 @@
 
 ## Beschreibung
 
-Das Gerät besteht aus mehren flexiebelen die spezielle Aufgaben haben. Darin befinden sich diverse µcips, die zusammen ein PDA ähnliches Device bilden, das Durch den Kontakt zur Haut mit dem menschlichen Nutzer auch elktro-bio-chemisch verbunden ist. 
+Das Gerät besteht aus mehren flexiebelen Schichten, die spezielle Aufgaben haben. Darin befinden sich diverse µcips, die zusammen ein PDA ähnliches Device bilden, das Durch den Kontakt zur Haut mit dem menschlichen Nutzer auch elktro-bio-chemisch verbunden ist. 
 
 Es sieht aus wie eine runde, flache Scheibe mit einem Radius von ca. 1cm und einer Höhe von ca. 2mm.
 
