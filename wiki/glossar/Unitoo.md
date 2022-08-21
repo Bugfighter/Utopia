@@ -26,12 +26,18 @@ Je nach Notwendigkeit können sich so alle möglichen Körperfunktionen messen u
 ### Schichten
 
 1. Schutzschicht
+    1. Panzerglas
 2. Sensorplatte
-3. Emitter [@TODO Projektion?]
+    1. ALLE - *-meter, außer "laufende"
+3. Emitter
+    1. Neutrino Kommunikation
+    2. Licht
+    3. Sound
 4. Prozessoren
+    1. PI
 5. Speicher
+    1. PI
 6. µcells-Bucht
-
 
 
 ## Einsatz der Unitoos
