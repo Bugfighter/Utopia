@@ -18,7 +18,7 @@ Es besteht funktional aus einem Prozessor, mit einer KI ("maschine lerning" nich
 
 ## Technischer Aufbau
 
-Die kleine Scheibe ist sehr robust, aber, oder u.U. auch weil sie relativ flexiebel ist und sie aus verschiedenen Schichten besteht. Die unterste Schicht beherbergt enen Schwarm an µcells, die sich nach aufbringen des Gerätes im Körper verteilen.
+Die kleine Scheibe ist sehr robust, aber, oder u.U. auch weil sie relativ flexiebel ist und sie aus verschiedenen Schichten besteht. Die unterste Schicht beherbergt enen Schwarm an [µcells](https://github.com/Bugfighter/µcells.md), die sich nach aufbringen des Gerätes im Körper verteilen.
 Je nach Notwendigkeit können sich so alle möglichen Körperfunktionen messen und modifizieren lassen, und so tief in die Prozesse des menschlichen Körpers eingegriffen werden.
 
 
@@ -38,29 +38,29 @@ Je nach Notwendigkeit können sich so alle möglichen Körperfunktionen messen u
 
 Jeder Mensch bekommt heute kurz nach der Geburt ein Unitoo. 
 
-Sie können entfernt werden, wodurch aber die µcells im Körper anfangen abzusterben.
+Sie können entfernt werden, wodurch aber die [µcells](https://github.com/Bugfighter/µcells.md) im Körper anfangen abzusterben.
 
 Da sich die Vorzüge der Unitoos durch den Grad der elktro-bio-chemischen Verbindung mit dem Menschen ergeben, kommt es qiasi darauf an, wie tief man sich darauf einlässt.
 
 "Unis" [@TODO Politik] würden sagen, es wäre optimal, sein ganzes Leben lang, jederzeit mit seinem Unitoo verbunden zu sein. Natürlich abzüglich von Wartung, Pflege und ab und an Wechsel des Devices. 
 
-Essentiell dabei, war, das die Syncronität des KI-Speichers in den µchips und der Population an µcells im Körper erhalten bliebe. 
+Essentiell dabei, war, das die Synchronität des KI-Speichers in den [µchips](https://github.com/Bugfighter/µchips.md) und der Population an [µcells](https://github.com/Bugfighter/µcells.md) im Körper erhalten bliebe. 
 
-Dabei waren die einzelnen µcells der KI so Bekannt wie einzelne Freunde, die sie u.U Seit Anfang der Symbiose mit dem Menschen pflegte. Natürlich waren nicht die echten, einzelnen  µcells gemeint, mehr die Gewichtung der Informationen die die KI von der Art von µcells erhielt.
+Dabei waren die einzelnen [µcells](https://github.com/Bugfighter/µcells.md) der KI so Bekannt wie einzelne Freunde, die sie u.U Seit Anfang der Symbiose mit dem Menschen pflegte. Natürlich waren nicht die echten, einzelnen  [µcells](https://github.com/Bugfighter/µcells.md) gemeint, mehr die Gewichtung der Informationen die die KI von der Art von [µcells](https://github.com/Bugfighter/µcells.md) erhielt.
 
-Würde jedoch, z.B. auf Grund eines größeren medizinischen Eingriffes, das Unitoo längere Zeit vom Menschen getrennt, würde die KI darauf warten müssen, das die verbliebenen µcells wieder bestimmte Körperzellen replizierten, woraus sich dann wieder eine Gewichtung der Informationen in der KI ergeben würde.
+Würde jedoch, z.B. auf Grund eines größeren medizinischen Eingriffes, das Unitoo längere Zeit vom Menschen getrennt, würde die KI darauf warten müssen, das die verbliebenen [µcells](https://github.com/Bugfighter/µcells.md) wieder bestimmte Körperzellen replizierten, woraus sich dann wieder eine Gewichtung der Informationen in der KI ergeben würde.
 
-Der Prozess war aber weniger aktiv gesteuert, als eine Symbiose zwischen der µcells und den µchips. Man konnte es sich so vorstellen, das die KI versuchte den Menschlichen Wunsch zu interpretieren, um dann anhand der gewichteten Informationen im Speicher eine Lösung vorzuschlagen, Wenn es schlecht lief auch mehrere.
+Der Prozess war aber weniger aktiv gesteuert, als eine Symbiose zwischen der [µcells](https://github.com/Bugfighter/µcells.md) und den [µchips](https://github.com/Bugfighter/µchips.md). Man konnte es sich so vorstellen, das die KI versuchte den Menschlichen Wunsch zu interpretieren, um dann anhand der gewichteten Informationen im Speicher eine Lösung vorzuschlagen, Wenn es schlecht lief auch mehrere.
 
-Die µchips, versuchen wiederum die Aktionen der KI zu gewichten und Beziehungen mit µcells einzugehen, die einer positiv gewichteten Information zuträglich war.
+Die [µchips](https://github.com/Bugfighter/µchips.md), versuchen wiederum die Aktionen der KI zu gewichten und Beziehungen mit [µcells](https://github.com/Bugfighter/µcells.md) einzugehen, die einer positiv gewichteten Information zuträglich war.
 
 So war die KI ein relativ mächtiger, persönlicher Begleiter des Menschen geworden, der aus einer Symbiose von Lebewesen und Technik im Mensch als Wirtskörper lebte. Es war wie der feuchte Traum all dieser Spinner die vor langer Zeit versucht hatten KI auf ausschließliche elektrotechnische Weise das Leben ein zu hauchen.
 
 Als man verstand das eine lebendige KI auch eine lebende Komponente brauchte, ging alles sehr schnell.
 
-Wie bei einem Menschen zu einem gesunden Geist ein gesunder Körper und umgekehrt gehört, gehört zu einer KI eine gesunde Population von µcells zu den eingesetzten µchips.
+Wie bei einem Menschen zu einem gesunden Geist ein gesunder Körper und umgekehrt gehört, gehört zu einer KI eine gesunde Population von [µcells](https://github.com/Bugfighter/µcells.md) zu den eingesetzten [µchips](https://github.com/Bugfighter/µchips.md).
 
-So viel wahr technisch eigentlich nicht passiert, mann hatte michro-chips zu echten µchips gemacht (µm), und hatte den winzigen Prozessoren echte Sensorik und noch viel wichtiger echten Zufall gegeben, indem man ihnen endlich Ihre Brüder die µcells an die Seite stellte.
+So viel wahr technisch eigentlich nicht passiert, mann hatte michro-chips zu echten [µchips](https://github.com/Bugfighter/µchips.md) gemacht (µm), und hatte den winzigen Prozessoren echte Sensorik und noch viel wichtiger echten Zufall gegeben, indem man ihnen endlich Ihre Brüder die [µcells](https://github.com/Bugfighter/µcells.md) an die Seite stellte.
 
 Damit hatte die Menschheit eine mächtiges Tool erfunden, was direkt auf alle Bereiche der Medizin, Wissenschaft, und dadurch auf Kultur und Politik Einfluss nahm.
 

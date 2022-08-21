@@ -7,7 +7,7 @@
 - Gründung der weltumspannenden Gemeinschaft [Omni](/wiki/glossar/Omni.md). Omni ersetzt alle bisherigen Länder und Bündnisse.
 
 ## 2050
-- Das [Omnigrid](/wiki/glossar/Omnigrid.md) wird flächendeckend eingeführt. Alle Bürger erhalten ein [Unitoo](/wiki/glossar/Unitoo.md).
+- Das [Omnigrid](/wiki/glossar/Unigrid.md) wird flächendeckend eingeführt. Alle Bürger erhalten ein [Unitoo](/wiki/glossar/Unitoo.md).
 
 ## 2054
 - Die Gemeinschaft schafft Familienstrukturen ab.
