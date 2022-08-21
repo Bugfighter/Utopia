@@ -7,6 +7,11 @@
 
 
 
-[@TODO]
+## Informationen nach dem Tod
 
-Wie machen wir es, das die Menge an Wissen im Unigrid immer weiter steigt, aber wir nicht mehr Menschen, daher auch nicht mehr Unitoos im Unigrid haben?
+Die Beisetzung eines gestorbenen Menschen besteht heutzutage vor allem aus dem Ablösen seines [Unitoos](/wiki/glossar/Unitoo.md), mit anschließender, dauerhafter Verbindung mit einem [Wissensstein](/wiki/glossar/Wissensstein.md).
+
+
+
+
+
