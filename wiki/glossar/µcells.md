@@ -2,6 +2,8 @@
 
 Lebende Zellen im µm Größenbereich, ähnlich den weißen Blutkörperzellen, die sich über die Blutbahn an allen Stellen Lebender Organismen festsetzen oder im Blutstrom fließen können.
 
+Gesprochen: "Micro-Cells"
+
 Sie Können Körperzellen des Lebewesens:
 
 1. aktivieren

@@ -21,4 +21,4 @@ Generationszahl nach Abschaffung der Famile - denn "Familienname" macht nun kein
 
 - Novi - die neunten
 
-- deci - die zehnten
+- Deci - die zehnten
