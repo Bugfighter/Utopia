@@ -1,4 +1,4 @@
-# Omnigrid
+# Unigrid
 
 **Netzwerk aus allen Unitoos**
 

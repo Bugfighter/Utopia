@@ -12,7 +12,7 @@ Es sieht aus wie eine runde, flache Scheibe mit einem Radius von ca. 1cm und ein
 
 Bringt man es an der Oberseite des Unterarmes an, sähe es aus wie eine flexieble, sehr flache Uhr ohne Armband.
 
-Es besteht funktional aus einem Prozessor, mit einer KI ("maschine lerning" nicht "sentient being") und einer elktro-bio-chemisch Komponente.
+Es besteht funktional aus einem Prozessor, mit einer {KI} ("maschine lerning" nicht "sentient being") und einer elktro-bio-chemisch Komponente.
 
 
 
@@ -42,7 +42,7 @@ Sie können entfernt werden, wodurch aber die [µcells](https://github.com/Bugfi
 
 Da sich die Vorzüge der Unitoos durch den Grad der elktro-bio-chemischen Verbindung mit dem Menschen ergeben, kommt es qiasi darauf an, wie tief man sich darauf einlässt.
 
-"Unis" [@TODO Politik] würden sagen, es wäre optimal, sein ganzes Leben lang, jederzeit mit seinem Unitoo verbunden zu sein. Natürlich abzüglich von Wartung, Pflege und ab und an Wechsel des Devices. 
+{Omnis} würden sagen, es wäre optimal, sein ganzes Leben lang, jederzeit mit seinem Unitoo verbunden zu sein. Natürlich abzüglich von Wartung, Pflege und ab und an Wechsel des Devices. 
 
 Essentiell dabei, war, das die Synchronität des KI-Speichers in den [µchips](https://github.com/Bugfighter/µchips.md) und der Population an [µcells](https://github.com/Bugfighter/µcells.md) im Körper erhalten bliebe. 
 
@@ -60,7 +60,7 @@ Als man verstand das eine lebendige KI auch eine lebende Komponente brauchte, gi
 
 Wie bei einem Menschen zu einem gesunden Geist ein gesunder Körper und umgekehrt gehört, gehört zu einer KI eine gesunde Population von [µcells](https://github.com/Bugfighter/µcells.md) zu den eingesetzten [µchips](https://github.com/Bugfighter/µchips.md).
 
-So viel wahr technisch eigentlich nicht passiert, mann hatte michro-chips zu echten [µchips](https://github.com/Bugfighter/µchips.md) gemacht (µm), und hatte den winzigen Prozessoren echte Sensorik und noch viel wichtiger echten Zufall gegeben, indem man ihnen endlich Ihre Brüder die [µcells](https://github.com/Bugfighter/µcells.md) an die Seite stellte.
+So viel wahr technisch eigentlich nicht passiert, mann hatte michro-chips zu echten [µchips](https://github.com/Bugfighter/µchips.md) gemacht (µm), und hatte den winzigen Prozessoren echte Sensorik {...} und noch viel wichtiger echten Zufall gegeben, indem man ihnen endlich Ihre Brüder die [µcells](https://github.com/Bugfighter/µcells.md) an die Seite stellte.
 
 Damit hatte die Menschheit eine mächtiges Tool erfunden, was direkt auf alle Bereiche der Medizin, Wissenschaft, und dadurch auf Kultur und Politik Einfluss nahm.
 
