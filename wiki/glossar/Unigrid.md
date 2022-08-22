@@ -13,5 +13,14 @@ Die Beisetzung eines gestorbenen Menschen besteht heutzutage vor allem aus dem A
 
 
 
+## Leben nach dem Tod
+
+**Gibt es immer noch nicht**! aber man kann den nachfolgenden Menschen viel direkter Wissen hinterlassen als vor einem Jarhundert. Manche sprechen davon, das sogar noch weiter wächst.
+
+Das beruht auf folgender Technik:
+
+Verstirbst ein Mensch und sein Unitoo wird im Rahmen der Beisetzung in einem WIssensstein an das Unigrid angeschlossen, simuliert die PI weiterhin, auf Basis der im Speicher enthaltenen persönlichen Erfahrungen des Verstorbenen, sein Verhalten im Unigrid. Man kann mit dem PI Verstorberner interagieren, in einer Art wie früher mit keinen Komputer-Inteligenzen von vor 100 Jahren, den KIs. Auch wenn sie sehr viel mehr persönliche Daten im Speicher haben, ist der Beitrag, den ein Unitoo eines Verstorbenen, z.B. an einem theoretischen Problem, im vergleich zu einem lebenden Kollegen eher gering. So wachsen die Daten in den Speichern, nur sehr langsam an, im vergleich zu den Daten die die µcells den µchips zuvor übermitteln konnten.
+
+Sie sind eher soetwas wie eine persönliche Simulation von Entscheidungen eines des spezifischen Individuums auf basis seiner Erfahrungen, ausgewertet von einer PI.
 
 

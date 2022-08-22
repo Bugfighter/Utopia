@@ -106,6 +106,12 @@ Das kann man sich im Grunde so vorstellen, das die [µcells](/wiki/glossar/µcel
 
 
 
+#### Projection eines Unitoos
+
+Darstellung von Informationen (Daten, Bilder, Video, Overlays (AR) ..) etc, auf der Netzhaut des Anwenders.
+
+
+
 
 ### Kultur
 
@@ -151,3 +157,34 @@ Als man verstand das eine nützliche [PI](/wiki/glossar/PI.md) auch eine lebende
 
 ##### die große Verkleinerung
 
+[µchips](/wiki/glossar/µchips.md) 
+
+
+
+##### die kleinen Freunde
+
+[µcells](/wiki/glossar/µcells.md) 
+
+
+
+##### PI ist die neue KI
+
+[PI](/wiki/glossar/PI.md) 
+
+
+
+##### das universellste Tool
+
+Unitoo
+
+
+
+##### das gemeinsame Netz
+
+Unigrid
+
+
+
+##### die neue große Familie
+
+Fast alle wollen Omni

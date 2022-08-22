@@ -28,3 +28,23 @@ Menschen in Omni die nicht so sehr daran interessiert sind das [Unigrid](/wiki/g
 
 
 
+## Beamte von Omni
+
+- Exicutive: 
+    - [Catcher](/wiki/glossar/Catcher.md)
+
+- Judicative: 
+    - @TODO
+
+- Legislative: 
+    - @TODO
+
+- Kultur
+    - [Raiser](/wiki/glossar/Raiser.md)
+
+- Umwelt: 
+    - @TODO
+
+
+
+
