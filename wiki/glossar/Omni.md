@@ -18,7 +18,7 @@
 ## Beamte von Omni
 
 - Exekutive: 
-    - [Catcher](/wiki/glossar/Catcher.md)
+    - [Catcher](/wiki/glossar/Omni/Catcher.md)
 
 - Judikative: 
     - @TODO
@@ -27,7 +27,7 @@
     - @TODO
 
 - Kultur
-    - [Raiser](/wiki/glossar/Raiser.md)
+    - [Raiser](/wiki/glossar/Omni/Raiser.md)
 
 - Umwelt: 
     - @TODO
@@ -43,7 +43,7 @@
 
 ### Omnis
 
-Menschen die sich in Omni sehr für die Anreicherung von Informationen im [Unigrid](/wiki/glossar/Unigrid.md) einsetzen und die Symbiose die durch die [Unitoos](/wiki/glossar/Unitoo.md) geschaffen wurde als neue Evolutionsstufe der Menschheit ansehen.
+Menschen die sich in Omni sehr für die Anreicherung von Informationen im [Unigrid](/wiki/glossar/Unigrid.md) einsetzen und die Symbiose die durch die [Unitoos](/wiki/glossar/Unigrid/Unitoo.md) geschaffen wurde als neue Evolutionsstufe der Menschheit ansehen.
 
 
 
