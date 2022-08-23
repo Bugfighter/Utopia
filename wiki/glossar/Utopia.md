@@ -8,7 +8,10 @@
 - Utopia bewahrt eine relativ gleichmäßige Bevölkerungsanzahl auf der Erde.
 - Abschaffung der Familie als Basis für einen fairen Start für jeden
 
+## Sprachen
 
+Nach Gründung von Omni, wird auch Weltsprache "Scheng" eingeführt!
+Eine Mischung im Wesentlichen aus dem früheren Spanisch, Chinesisch und Englisch.
 
 ## Ökonimie
 
