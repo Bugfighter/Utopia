@@ -36,12 +36,6 @@
 
 
 
-### Lebensziele
-
-- Nützliches Wissen direkt zu nutzen und neues zu hinterlassen ist die neue Priorität der Meisten.
-
-
-
 ## Transport
 
 - viel öffentlicher Verkehr

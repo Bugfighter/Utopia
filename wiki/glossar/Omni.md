@@ -9,6 +9,31 @@
 
 
 
+### Lebensziele der Meisten
+
+- Nützliches Wissen direkt zu nutzen und neues zu hinterlassen ist die neue Priorität der Meisten.
+
+
+
+## Beamte von Omni
+
+- Exekutive: 
+    - [Catcher](/wiki/glossar/Catcher.md)
+
+- Judikative: 
+    - @TODO
+
+- Legislative: 
+    - @TODO
+
+- Kultur
+    - [Raiser](/wiki/glossar/Raiser.md)
+
+- Umwelt: 
+    - @TODO
+
+
+
 ## Orientierungen
 
 - Generell empfindet sich die Menschheit nun viel mehr als ein Ganzes was aus vielen einzelnen besteht. Die Orientierungen sind Bewegungen in Omni die in konstruktiver Opposition stehen.
@@ -25,26 +50,5 @@ Menschen die sich in Omni sehr für die Anreicherung von Informationen im [Unigr
 ### Indies
 
 Menschen in Omni die nicht so sehr daran interessiert sind das [Unigrid](/wiki/glossar/Unigrid.md) als neue Stufe der Evolution zu fördern, sondern eher weiter nur als Tool für die Menschen einzusetzen wollen.
-
-
-
-## Beamte von Omni
-
-- Exicutive: 
-    - [Catcher](/wiki/glossar/Catcher.md)
-
-- Judicative: 
-    - @TODO
-
-- Legislative: 
-    - @TODO
-
-- Kultur
-    - [Raiser](/wiki/glossar/Raiser.md)
-
-- Umwelt: 
-    - @TODO
-
-
 
 
