@@ -14,5 +14,3 @@ Generationszahl nach Abschaffung der Famile - denn "Familienname" macht nun kein
 - Octi - die achten
 - Novi - die neunten
 - Deci - die zehnten
-
-@TODO @HB Bitte die Namen der Personen in der Geschichte anpassen, auch Dateinamen in /personen/ 
