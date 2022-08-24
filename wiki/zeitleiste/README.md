@@ -12,3 +12,45 @@
 ## 2054
 - Die Gemeinschaft schafft Familienstrukturen ab.
 
+
+
+
+
+# Events und Ablauf
+
+
+
+## die große Verkleinerung
+
+[µchips](/wiki/glossar/Unigrid/µchips.md) 
+
+
+
+## die kleinen Freunde
+
+[µcells](/wiki/glossar/Unigrid/µcells.md) 
+
+
+
+## PI ist die neue KI
+
+[PI](/wiki/glossar/Unigrid/PI.md) 
+
+
+
+## das universellste Tool
+
+Unitoo
+
+
+
+## das gemeinsame Netz
+
+Unigrid
+
+
+
+## die große neue Familie
+
+Fast alle wollen Omni
+

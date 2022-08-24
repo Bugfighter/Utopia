@@ -15,10 +15,10 @@ Eine Mischung im Wesentlichen aus dem früheren Spanisch, Chinesisch und Englisc
 
 ## Ökonimie
 
--  gehobene Grundversorgung (In Utopia fehlte es ihm im Prinzip an nichts, dafür sorgte die Gemeinschaft und ein sehr hoher Grad an Automatisierung) S1E1
+-  gehobene Grundversorgung (In Utopia fehlte es ihm im Prinzip an nichts, dafür sorgte die Gemeinschaft und ein sehr hoher Grad an Automatisierung) [S01E01](/stories/S01/S01E01)
 - Währung sind "credits" 
-    - Catcher Job "Yoschi" 240 Credits S1E1
-    - Eine einwöchige Reise zum Mond kostete allerdings immer noch etwa 10.000 Credits. S1E1
+    - Catcher Job "Yoschi" 240 Credits [S01E01](/stories/S01/S01E01)
+    - Eine einwöchige Reise zum Mond kostete allerdings immer noch etwa 10.000 Credits. [S01E01](/stories/S01/S01E01)
 
 
 
@@ -26,7 +26,7 @@ Eine Mischung im Wesentlichen aus dem früheren Spanisch, Chinesisch und Englisc
 
 - Energiegewinnung ist divers und ein bunter Mix.
 - Neu hinzugekommen ist die Fusionsenergie, die zwar sauber ist, aber auch sehr aufwendig und schwer zu automatisieren.
-- Hauptgrund, warum Energie nicht mehr so ein Großes Thema ist, ist das alles viel kleiner und damit wesentlich weniger Energieaufwendig geworden ist, wenn es nicht physisch groß sein muss.
+- Hauptgrund, warum Energie nicht mehr so ein großes Thema ist, ist das alles viel kleiner und damit wesentlich weniger Energieaufwendig geworden ist, wenn es nicht physisch groß sein muss.
 
 
 
