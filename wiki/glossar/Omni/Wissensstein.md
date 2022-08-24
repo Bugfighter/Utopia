@@ -8,5 +8,3 @@
 - Er stellt nach dem Tod weiterhin das im Speicher und PI enthaltene Wissen des Verstorbenen und die Daten für die Blockchain dauerhaft für die Gemeinschaft zur Verfügung. 
 - So wächst das Unigrid stetig an, ohne das etwas verloren geht.
 
-
-
