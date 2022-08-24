@@ -34,7 +34,7 @@ Eine Mischung im Wesentlichen aus dem früheren Spanisch, Chinesisch und Englisc
 
 - erst klimatisch schlimmer geworden.
 - dann wieder besser, als die Menschen sich immer radikaler gewandelt haben.
-- ca. 40 Jahre großer Bemühungen haben viele Dinge wieder bereinigen können, Einige, wie z.B Hochwasser und Extremere Wetterschwankungen jedoch nicht.
+- ca. 40 Jahre großer Bemühungen haben viele Dinge wieder bereinigen können, Einige, wie z.B Hochwasser und extremere Wetterschwankungen jedoch nicht.
 - Vereinfacht ausgedrückt, hat der Äquator nach N und S einen Höhengrad mehr, und alle Vegetationsstufen haben sich ca. einen Höhengrad weiter in Richtung Pole bewegt.
 
 
