@@ -41,6 +41,12 @@ Je nach Notwendigkeit können sich so alle möglichen Körperfunktionen messen u
 
 
 
+### Backups in Wissenssteinen
+
+Die Speicher der Unitoos werden regelmäßig in Wissenssteine archiviert, damit bei Zerstörung eines Unitoos, z.B. durch einen schweren Unfall, die Datenbank wieder hergestellt werden kann. Bis der neue Unitoo wieder auf 100% läuft, dauert es dennoch, je nach Dauer der Unterbrechung, s.  [µcells](/wiki/glossar/Unigrid/µcells.md) und  [µchips](/wiki/glossar/Unigrid/µchips.md).
+
+
+
 
 ## Einsatz der Unitoos
 
